@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Divyanshu Sharma
 - 👀 I’m searching my field of Interest
-- 🌱 I’m currently learning Web-Devlopment & DSA
+- 🌱 I’m currently learning Web-Development & DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at mail id- 21bcs079@iiitdmj.ac.in 
 
